@@ -20,7 +20,7 @@
 - [Development](#development)
 - [Credits](#credits)
 
-## Description    p
+## Description    pi
 
 Combines streams from other addons into one and provides much greater customisation:
 
