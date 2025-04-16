@@ -20,7 +20,7 @@
 - [Development](#development)
 - [Credits](#credits)
 
-## Description   pi
+## Description                   prova n10
 
 Combines streams from other addons into one and provides much greater customisation:
 
